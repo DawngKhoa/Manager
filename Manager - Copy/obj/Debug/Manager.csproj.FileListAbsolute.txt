@@ -1,0 +1,28 @@
+D:\Virtual Studio\Projects\Manager\bin\Debug\Manager.exe.config
+D:\Virtual Studio\Projects\Manager\bin\Debug\Manager.exe
+D:\Virtual Studio\Projects\Manager\bin\Debug\Manager.pdb
+D:\Virtual Studio\Projects\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+D:\Virtual Studio\Projects\Manager\obj\Debug\Manager.csproj.SuggestedBindingRedirects.cache
+D:\Virtual Studio\Projects\Manager\obj\Debug\Manager.SignIn.resources
+D:\Virtual Studio\Projects\Manager\obj\Debug\Manager.Management.resources
+D:\Virtual Studio\Projects\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\Virtual Studio\Projects\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+D:\Virtual Studio\Projects\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+D:\Virtual Studio\Projects\Manager\obj\Debug\Manager.exe
+D:\Virtual Studio\Projects\Manager\obj\Debug\Manager.pdb
+D:\Virtual Studio\Projects\Manager\obj\Debug\Manager.BuySomething.resources
+D:\Virtual Studio\Projects\Manager\obj\Debug\Manager.Bills.resources
+D:\Virtual Studio\Projects\Manager - Copy\bin\Debug\Manager.exe.config
+D:\Virtual Studio\Projects\Manager - Copy\bin\Debug\Manager.exe
+D:\Virtual Studio\Projects\Manager - Copy\bin\Debug\Manager.pdb
+D:\Virtual Studio\Projects\Manager - Copy\obj\Debug\Manager.csproj.AssemblyReference.cache
+D:\Virtual Studio\Projects\Manager - Copy\obj\Debug\Manager.csproj.SuggestedBindingRedirects.cache
+D:\Virtual Studio\Projects\Manager - Copy\obj\Debug\Manager.BuySomething.resources
+D:\Virtual Studio\Projects\Manager - Copy\obj\Debug\Manager.Bills.resources
+D:\Virtual Studio\Projects\Manager - Copy\obj\Debug\Manager.SignIn.resources
+D:\Virtual Studio\Projects\Manager - Copy\obj\Debug\Manager.Management.resources
+D:\Virtual Studio\Projects\Manager - Copy\obj\Debug\Manager.Properties.Resources.resources
+D:\Virtual Studio\Projects\Manager - Copy\obj\Debug\Manager.csproj.GenerateResource.cache
+D:\Virtual Studio\Projects\Manager - Copy\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+D:\Virtual Studio\Projects\Manager - Copy\obj\Debug\Manager.exe
+D:\Virtual Studio\Projects\Manager - Copy\obj\Debug\Manager.pdb
